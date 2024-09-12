@@ -9,7 +9,7 @@ Reports errors in the QangaCrashRecovery_log.txt file
 
 Installation
 1. Open the script with Notepad or your favourite text editor and edit the 4 top options to your liking
-2. Download SteamCMD: https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip or open 'steamcmd download' URL
+2. Download SteamCMD: https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip or open 'steamcmd download' URL supplied in the zip
 3. Place steamcmd.exe into the Qanga/steamcmd/ folder.
 4. Run the Script: Right click QangaWatchdogSteamCMD.ps1 and select 'Run with PowerShell'
 5. Profit!
