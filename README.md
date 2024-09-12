@@ -14,5 +14,4 @@ Installation
 4. Run the Script: Right click QangaWatchdogSteamCMD.ps1 and select 'Run with PowerShell'
 5. Profit!
 
-License
 This project is licensed under the MIT License - see the LICENSE.txt file for details.
