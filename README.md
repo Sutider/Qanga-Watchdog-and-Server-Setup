@@ -7,7 +7,7 @@ Monitors the server for crashes or unresponsiveness.
 Restarts the server if it stops responding or crashes.
 Reports errors in the QangaCrashRecovery_log.txt file
 
-~Installation~
+Installation
 1. Open the script with Notepad or your favourite text editor and edit the 4 top options to your liking
 2. Download SteamCMD: https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip or open 'steamcmd download' URL
 3. Place steamcmd.exe into the Qanga/steamcmd/ folder.
